@@ -10,7 +10,7 @@ Everyone carries "what ifs." *What if I'd taken that job? Moved to that city? St
 
 **The difference:** Three AI agents research and construct a deeply calibrated persona before you ever start talking. Your alternate self has a consistent personality, realistic memories, and authentic emotional responses — even across 100+ turn conversations.
 
-Built with [MiniMax M2-Her](https://minimax.io) for character consistency, [Claude](https://anthropic.com) for context engineering, and [OpenClaw](https://openclaw.ai).
+Built with [MiniMax M2-Her](https://www.minimax.io/news/a-deep-dive-into-the-minimax-m2-her-2) for character consistency, [Claude](https://anthropic.com) for context engineering, and [OpenClaw](https://openclaw.ai).
 
 ## Demo
 
