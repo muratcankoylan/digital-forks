@@ -212,7 +212,7 @@ pnpm clean         # Clean build artifacts
 
 ## License
 
-MIT — see [LICENSE](LICENSE) for details.
+MIT — see [LICENSE](LICENSE) for details. 
 
 ## Acknowledgments
 
