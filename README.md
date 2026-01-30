@@ -25,8 +25,6 @@ But you... you were there. You held his hand. Some things you can't
 put a price on. Do I regret it? Ask me on my bad days, and yes."
 ```
 
-See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for the full demo guide.
-
 ## Features
 
 - **Context Engineering Pipeline**: Three-agent system (Interview → Research → Architect) creates deeply researched personas in ~30 seconds
