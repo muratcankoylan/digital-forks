@@ -2,8 +2,6 @@
 
 ### *"What if you could meet the you who made the other choice?"*
 
-https://github.com/user-attachments/assets/demo-placeholder
-
 ---
 
 Everyone carries "what ifs." *What if I'd taken that job? Moved to that city? Stayed with them?*
@@ -12,7 +10,7 @@ Everyone carries "what ifs." *What if I'd taken that job? Moved to that city? St
 
 **The difference:** Three AI agents research and construct a deeply calibrated persona before you ever start talking. Your alternate self has a consistent personality, realistic memories, and authentic emotional responses — even across 100+ turn conversations.
 
-Built with [MiniMax M2-Her](https://minimax.io) for character consistency, [Claude](https://anthropic.com) for context engineering, and [OpenClaw](https://openclaw.ai) for multi-platform messaging.
+Built with [MiniMax M2-Her](https://minimax.io) for character consistency, [Claude](https://anthropic.com) for context engineering, and [OpenClaw](https://openclaw.ai).
 
 ## Demo
 
@@ -32,7 +30,7 @@ See [DEMO_SCRIPT.md](DEMO_SCRIPT.md) for the full demo guide.
 ## Features
 
 - **Context Engineering Pipeline**: Three-agent system (Interview → Research → Architect) creates deeply researched personas in ~30 seconds
-- **Research-Backed Psychology**: Big Five personality traits, drift prevention (Anthropic), psychological archetypes
+- **Research-Backed Psychology**: Big Five personality traits, drift prevention, psychological archetypes
 - **100+ Turn Stability**: MiniMax M2-Her maintains character consistency across long conversations
 - **7 Message Roles**: System, user, assistant, user_system, group, sample_message_user, sample_message_ai
 - **Multi-Platform**: Web app + WhatsApp/Telegram/Discord via OpenClaw
@@ -129,13 +127,11 @@ User describes a life decision and the path not taken:
 
 ### 2. Context Engineering Pipeline
 
-Three agents powered by **Claude Opus 4.5** work together to create a rich, researched persona:
+Three agents work together to create a rich, researched persona:
 
 1. **Interview Agent**: Extracts emotional context, hidden motivations, and psychological patterns
 2. **Research Agent**: Gathers factual grounding with web search — real companies, industries, locations for authentic details
 3. **Persona Architect**: Synthesizes into a 2000-3000 token character prompt with Big Five personality traits and drift prevention
-
-**Why Opus 4.5?** The highest-quality model ensures nuanced emotional understanding and authentic persona creation.
 
 ### 3. Conversation
 
@@ -216,18 +212,6 @@ pnpm typecheck     # Type check
 pnpm clean         # Clean build artifacts
 ```
 
-## Contributing
-
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
-### Areas for Contribution
-
-- New platform adapters (Discord, Slack, iMessage)
-- Prompt templates for different fork types
-- UI themes and components
-- Language translations
-- Character generation improvements
-
 ## License
 
 MIT — see [LICENSE](LICENSE) for details.
@@ -239,6 +223,3 @@ MIT — see [LICENSE](LICENSE) for details.
 - [Anthropic](https://anthropic.com) for Claude
 - [OpenRouter](https://openrouter.ai) for unified API access
 
----
-
-Built with ❤️ by the Forks community
