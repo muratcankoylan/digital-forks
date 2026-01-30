@@ -48,7 +48,7 @@ put a price on. Do I regret it? Ask me on my bad days, and yes."
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/forks.git
+git clone [https://github.com/muratcankoylan/forks.git](https://github.com/muratcankoylan/digital-forks/)
 cd forks
 
 # Install dependencies
